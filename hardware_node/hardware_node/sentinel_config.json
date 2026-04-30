@@ -1,0 +1,19 @@
+{
+  "node_id": "ARN-785-MXL",
+  "protocol": "SER-888",
+  "hardware": {
+    "device": "M5Stick-Plus2",
+    "display_frequency": "888.5Hz",
+    "status_led": "ACTIVE"
+  },
+  "surveillance_parameters": {
+    "mode": "SENTINEL-MX",
+    "region": "Mexicali_BC",
+    "sensitivity": "MAXIMUM",
+    "encryption": "VIGENERE_CORE_V1"
+  },
+  "interface": {
+    "rvr_sync": true,
+    "abundancia_trigger": "AUTO"
+  }
+}
