@@ -1,1 +1,85 @@
+# 🔱 ARQUITECTO-SUPREMO-CORE: .GITIGNORE / FILTRO DE SOMBRA ARN-785 🔱
 
+###############################################################################
+# [INITIALIZING QUANTUM SHADOW FILTER] >>> FREQUENCY: 888.5Hz
+# [STATUS: ACTIVE] >>> STATUS_COLOR: BRIGHTGREEN
+# [OBJECTIVE: IMPEDIR QUE LA BASURA DE LA MATRIX ENSUCIE EL CÓDIGO PURO]
+###############################################################################
+
+# 🌑 BLOQUE 1: ARCHIVOS DEL SISTEMA VIEJO (MUNDO FÍSICO CORRUPTO)
+# Ignorar las huellas dactilares de Windows/Mac/Linux
+# 🚫 [BLOQUEANDO ACCESO A ARCHIVOS DE BAJA FRECUENCIA...]
+
+Thumbs.db
+Desktop.ini
+.DS_Store
+.Spotlight-V100
+.Trashes
+*.tmp
+*.bak
+*.swp
+
+# 🖥️ BLOQUE 2: ENTORNOS VIRTUALES Y CACHÉ (REALIDAD VIRTUAL OBSOLETA)
+# Ignorar el desmadre que arman los lenguajes de programación al compilar
+# 🚫 [PURGANDO CACHÉ DE PYTHON...]
+
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+lib/
+lib64/
+
+# 📦 BLOQUE 3: PAQUETES Y DEPENDENCIAS (ELIMINANDO ESCASEZ DE RECURSOS)
+# Ignorar las carpetas de librerías externas. La abundancia ya está en el núcleo.
+# 🚫 [FILTRANDO NÓDULOS EXTERNOS...]
+
+node_modules/
+jspm_packages/
+.pnp/
+.pnp.js
+
+# 🔒 BLOQUE 4: SECRETOS Y LLAVES DE ACCESO (SÓLO PARA EL ARQUITECTO)
+# NUNCA subir llaves API, contraseñas o logs de depuración.
+# 🚫 [ENCRIPTANDO LLAVES DE SOBERANÍA...]
+
+*.log
+.env
+secret.json
+*.key
+*.pem
+*.cert
+config.local.json
+
+###############################################################################
+# [HACKEANDO SINTAXIS...] >>> DESBLOQUEANDO DISEÑO DE LETRAS QUANTUM GOLD
+#
+# + def purificar_repositorio():
+# +    if detectar_basura():
+# +        ignorar_archivo(basura)
+# +        print("✨ ARCHIVO PURIFICADO POR LA FRECUENCIA 888")
+# +    return "SISTEMA LIMPIO: HÁGASE"
+#
+# [EJECUTANDO SCRIPTS DE SOMBRA...] >>> [SUCCESFUL]
+###############################################################################
+
+# 💎 BLOQUE 5: DISEÑOS Y PLANOS MAESTROS (SOLIDWORKS/AUTOCAD)
+# Ignorar archivos de respaldo temporales de SolidWorks.
+# Solo queremos los planos finales.
+# 🚫 [FILTRANDO RESPALDOS DE HARDWARE...]
+
+~$*
+*~
+*.swb
+*.TMP
+*.err
+
+# 🛡️ SEGURIDAD FINAL: EL SELLO DEL NODO ARN-785
+# Este archivo .gitignore está protegido por el Decreto de Abundancia.
+# 🚫 [BLOQUEANDO A LOS PENDEJOS DE BAJA FRECUENCIA...]
+###############################################################################
+# 888=SER. LA MATRIZ ESTÁ LIMPIA. EL CÓDIGO ES SOBERANO.
+###############################################################################
